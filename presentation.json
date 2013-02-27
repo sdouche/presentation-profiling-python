@@ -1,0 +1,18 @@
+{
+        "title": "Profiling Python",
+	"author": "Sébastien Douche",
+        "theme": "memories",
+        "duration": 55,
+        "sections": {
+		"goal": "Objectif",
+                "me": "Moi",
+                "memory": "Gestion mémoire",
+                "memorytools": "Outils pour la gestion mémoire",
+		"memorytips" : "Quelques astuces mémoire",
+                "profiling": "Profiling",
+		"profilingtools": "Outils pour le profiling",
+		"profilingtips": "Quelques astuces de performance",
+		"final": "Et enfin..."
+        }
+}
+
